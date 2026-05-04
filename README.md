@@ -84,12 +84,12 @@ http://localhost/uts_60324033/
 ## Struktur Folder
 
 ```
-uts_123456/
+uts_60324033/
 ├── config/
 │   └── database.php
 ├── index.php
 ├── create.php
 ├── edit.php
 ├── delete.php
-└── database_backup.sql
+└── uts_perpustakaan_60324033.sql
 ```
